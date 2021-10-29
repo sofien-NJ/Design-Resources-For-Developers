@@ -1,6 +1,6 @@
 # Design-Resources-For-Developers
 ![Repository Banner](headerimage.png)
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+#### Please read [`contributing guidelines`](./https://tailwindcss.com/) before submitting new resources.
 
 ## Table of Contents
 
