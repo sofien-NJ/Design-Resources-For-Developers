@@ -1,6 +1,6 @@
 # Design-Resources-For-Developers
 ![Repository Banner](headerimage.png)
-#### [Tailwind CSS] -> [CSS Frameworks] (./https://tailwindcss.com/) 
+[Tailwind CSS] -> [CSS Frameworks](https://tailwindcss.com/) 
 
 ## Table of Contents
 
